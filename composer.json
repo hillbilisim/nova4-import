@@ -1,6 +1,6 @@
 {
-    "name": "anaseqal/nova-import",
-    "description": "A Laravel Nova import tool.",
+    "name": "hillbilisim/nova-import",
+    "description": "A Laravel Nova 4 import tool.",
     "keywords": [
         "laravel",
         "import",
